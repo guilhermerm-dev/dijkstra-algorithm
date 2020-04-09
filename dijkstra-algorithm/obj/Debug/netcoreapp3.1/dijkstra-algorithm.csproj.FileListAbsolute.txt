@@ -1,0 +1,12 @@
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/bin/Debug/netcoreapp3.1/dijkstra-algorithm.deps.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/bin/Debug/netcoreapp3.1/dijkstra-algorithm.runtimeconfig.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/bin/Debug/netcoreapp3.1/dijkstra-algorithm.runtimeconfig.dev.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/bin/Debug/netcoreapp3.1/dijkstra-algorithm.dll
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/bin/Debug/netcoreapp3.1/dijkstra-algorithm.pdb
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.csprojAssemblyReference.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.csproj.CoreCompileInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.AssemblyInfoInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.AssemblyInfo.cs
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.dll
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.pdb
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/dijkstra-algorithm/dijkstra-algorithm/obj/Debug/netcoreapp3.1/dijkstra-algorithm.genruntimeconfig.cache
